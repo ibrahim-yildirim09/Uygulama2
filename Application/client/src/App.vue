@@ -17,6 +17,7 @@
      <AppSideBar /> 
     </div>
   </div>
+  <router-view/>
 </template>
 
 <style lang="scss" scoped>
